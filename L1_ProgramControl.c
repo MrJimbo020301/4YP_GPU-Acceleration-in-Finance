@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define PI 3.14
+//New comment
 
 // Declare the function before using it
 float area_of_circle(float radius);
